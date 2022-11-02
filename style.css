@@ -37,8 +37,18 @@
 }
 
 #reset-button:hover{
-    background-color: #C20114;
+    background-color: #bd4b57;
     box-shadow: 0px 15px 20px #D24654;
     color: #fff;
     transform: translateY(-7px);
+}
+
+#reset-button /*the red was frying my eye balls */
+{
+    background-color: #744c50;
+}
+
+body
+{
+    background-color: rgb(157, 157, 186);
 }
